@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h2>AI Virtual Mouse using Hand Gestures</h2>
 
 An AI-based Virtual Mouse that allows users to control the computer mouse using hand gestures captured through a webcam.
@@ -47,6 +46,5 @@ virtual_mouse/<br>
 <h2>Author</h2>
 <p>Parinita Vishwakarma</p>
 <p>GitHub: https://github.com/parinita101</p>
-=======
-AI Virtual Mouse using Hand Gestures
->>>>>>> origin/main
+
+
